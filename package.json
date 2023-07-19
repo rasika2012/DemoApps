@@ -1,0 +1,22 @@
+{
+  "name": "demoapps",
+  "version": "1.0.0",
+  "description": "Sample  Choreo Apps",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasika2012/DemoApps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasika2012/DemoApps/issues"
+  },
+  "homepage": "https://github.com/rasika2012/DemoApps#readme"
+}
